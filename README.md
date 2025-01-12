@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinandan-2" alt="abhinandan-2" /></a> </p>
 
-- 🔭 I’m currently working on [Investment Tracker](https://investment-tracker-by-abhi.web.app)
+- 🔭 I’m currently working on [Investment Tracker](https://investify-trackmyinvestments.web.app)
 
 - 📫 How to reach me **abhinandan2462@gmail.com**
 
