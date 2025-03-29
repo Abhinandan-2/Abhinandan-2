@@ -23,7 +23,7 @@
 <a href="https://www.interviewbit.com/profile/Abhinandan__22" target="blank"><img align="center" src="https://www.interviewbit.com/_next/static/media/brand.6cf9233b.svg" alt="abhinandan__22" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhinandan__22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinandan__22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhinandan__22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhinandan__22" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/abhinandan__22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abhinandan__22" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Abhinandan__22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abhinandan__22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
